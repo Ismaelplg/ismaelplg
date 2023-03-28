@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🖐 Hola, Soy Ismael, Frontend developer de (https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png)México.<br>🌱 Actualmente estoy aprendiendo Angular, TypeScript. Y deseo continuar con Python y Django como Backend<br>
+🖐 Hola, Soy Ismael, Frontend developer de México.<br>🌱 Actualmente estoy aprendiendo Angular, TypeScript. Y deseo continuar con Python y Django como Backend<br> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/810c0059ec880d3bf22c12f8ecd24d39ae1c9ee5d294cd397e6f414738d9cdd8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67"><img src="https://camo.githubusercontent.com/810c0059ec880d3bf22c12f8ecd24d39ae1c9ee5d294cd397e6f414738d9cdd8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" width="13" data-canonical-src="https://cdn-icons-png.flaticon.com/512/197/197560.png" style="max-width: 100%;"></a>
 
 
 ## 🌐 Socials:
