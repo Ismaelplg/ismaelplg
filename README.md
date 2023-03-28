@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🖐 Hola, Soy Ismael, Frontend developer de México.<br>🌱 Actualmente estoy aprendiendo Angular, TypeScript. Y deseo continuar con Python y Django como Backend<br>
+🖐 Hola, Soy Ismael, Frontend developer de (https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/mx.png)México.<br>🌱 Actualmente estoy aprendiendo Angular, TypeScript. Y deseo continuar con Python y Django como Backend<br>
 
 
 ## 🌐 Socials:
